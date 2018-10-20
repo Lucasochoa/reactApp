@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/reactApp/static/media/tribeca.70eb93bc.png"
   },
   {
-    "revision": "7f87a73af5bf604125b5",
-    "url": "/reactApp/static/css/main.96d4d913.chunk.css"
+    "revision": "30ca62c3599f910f350a",
+    "url": "/reactApp/static/css/main.611785cd.chunk.css"
   },
   {
-    "revision": "2c9ce51a4c3dac6060be",
-    "url": "/reactApp/static/js/1.2c9ce51a.chunk.js"
+    "revision": "20a08df9508d038a53c0",
+    "url": "/reactApp/static/js/1.20a08df9.chunk.js"
   },
   {
     "revision": "ae19eedf6eab4da517e7",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/reactApp/static/media/soho.d1672c62.png"
   },
   {
-    "revision": "7f87a73af5bf604125b5",
-    "url": "/reactApp/static/js/main.7f87a73a.chunk.js"
+    "revision": "30ca62c3599f910f350a",
+    "url": "/reactApp/static/js/main.30ca62c3.chunk.js"
   },
   {
     "revision": "01a3313ba9c2367b6c92353d4e1c97bf",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/reactApp/static/media/pupIcon.5f29f29f.svg"
   },
   {
-    "revision": "635c42adfffdded11844e13bf9b2e4cf",
+    "revision": "bd2697130da74293bb4c039d63c10e81",
     "url": "/reactApp/index.html"
   }
 ];
