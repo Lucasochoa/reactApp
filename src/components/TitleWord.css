@@ -1,0 +1,12 @@
+.spaceBox{
+    /* outline: 3px solid green; */
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+.titleWord{
+    text-align: center;
+    color: white;
+    font-size:6em;
+    font-style: italic;
+}
